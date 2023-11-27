@@ -6,7 +6,7 @@ This Command Generate All Files In Lang Folder To Json File And Make Auto Genera
 
 - Copy TransLangToJs.php To Your Project At
 ```bash
-app/Console/Commands
+App/Console/Commands
 ```
 
 - Open vite.config.js Then At End Of Plugins Add
@@ -29,4 +29,9 @@ app/Console/Commands
 
 - Congratulations You Have Now Auto Generated For Lang Folder
 
-## Thanks For Your Watching
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/a-mohamed-nader/)
+* [Whatsapp](https://wa.me/+201098683990)
+* [Facebook](https://www.facebook.com/httpsnader0)
+* [Instagram](https://www.instagram.com/httpsnader0)
