@@ -9,7 +9,7 @@ This Command Generate All Files In Lang Folder To Json File And Make Auto Genera
 App/Console/Commands
 ```
 
-- Open vite.config.js Then At To Top
+- Open vite.config.js Then At The Top Of File Add
 
 ```bash
 import { exec } from "node:child_process";
